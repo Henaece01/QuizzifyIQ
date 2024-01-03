@@ -47,7 +47,7 @@ QuizzifyIQ is an interactive online quiz platform with AI-based adaptive testing
      ```bash
      npm start
 
-##Usage
+## Usage
   - Create an account or log in.
   - Explore personalized quizzes based on adaptive testing.
   - View real-time feedback and analytics to track your progress.
